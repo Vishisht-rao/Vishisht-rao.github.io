@@ -1,0 +1,74 @@
+{
+  "publications": [
+    {
+      "title": "Detecting LLM-Generated Reviews",
+      "authors": [
+        "Vishisht Rao",
+        "Aounon Kumar",
+        "Himabindu Lakkaraju",
+        "Nihar Shah"
+      ],
+      "venue": "PLOS ONE (2025)",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331871",
+        "code": "https://github.com/Vishisht-rao/detecting-llm-written-reviews"
+      },
+      "presentations": [
+        { "type": "Poster", "venue": "AI-SDM Workshop on Human-AI Complementarity for Decision Making", "year": 2025},
+        { "type": "Podium Presentation", "venue": "10th International Congress on Peer Review and Scientific Publication", "year": 2025 }
+      ]
+    },
+    {
+      "title": "Deep Learning Based Auction Design for Selling Agricultural Produce through Farmer Collectives to Maximize Nash Social Welfare",
+      "authors": [
+        "Mayank Ratan Bhardwaj",
+        "Vishisht Rao",
+        "Bazil Ahmed",
+        "Kartik Sagar",
+        "Y. Narahari"
+      ],
+      "venue": "Preprint",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://drive.google.com/file/d/1V-UYBc0wnwwIA_SXthPsxCWQwU0OwqNg/view?usp=sharing"
+      },
+      "presentations": [
+        { "type": "Production deployment", "venue": "Two leading agricultural districts near Bangalore, India", "year": "2024-present"}
+      ]
+    },
+    {
+      "title": "Deep Learning Meets Mechanism Design: Key Results and Some Novel Applications",
+      "authors": [
+        "V. Udaya Sankar",
+        "Vishisht Rao",
+        "Y. Narahari"
+      ],
+      "venue": "Preprint",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2401.05683"
+      }
+    },
+    {
+      "title": "SAliCLIP: Generating Speech-Conditioned Images by Aligning Speech With CLIP Latents",
+      "authors": [
+        "Prajwal Gupta",
+        "Vishisht Rao",
+        "Rithvik Ganesh",
+        "R. L. Sameeksha",
+        "V. R. Badri Prasad"
+      ],
+      "venue": "8th International Conference on Image, Vision and Computing (ICIVC) 2023",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/10270664",
+        "code": "https://github.com/Vishisht-rao/SAliCLIP"
+      }
+    }
+  ]
+}
