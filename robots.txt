@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishisht-rao.github.io/sitemap.xml
