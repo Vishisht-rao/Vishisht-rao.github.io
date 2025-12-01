@@ -1,6 +1,38 @@
 {
   "publications": [
     {
+      "title": "ML Researchers Support Openness in Peer Review But Are Concerned About Resubmission Bias",
+      "authors": [
+        "Vishisht Rao",
+        "Justin Payan",
+        "Andrew McCallum",
+        "Nihar Shah"
+      ],
+      "venue": "Preprint",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2511.23439",
+        "code": "https://github.com/justinpayan/OpenReviewAnalysis"
+      }
+    },
+    {
+      "title": "FLAWS: A Benchmark for Error Identification and Localization in Scientific Papers",
+      "authors": [
+        "Sarina Xi",
+        "Vishisht Rao",
+        "Justin Payan",
+        "Nihar Shah"
+      ],
+      "venue": "Preprint",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2511.21843",
+        "code": "https://github.com/xasayi/FLAWS"
+      }
+    },
+    {
       "title": "Detecting LLM-Generated Reviews",
       "authors": [
         "Vishisht Rao",
