@@ -65,7 +65,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "files/DL_ForwardAuction.pdf"
+        "pdf": "https://arxiv.org/abs/2512.22039"
       },
       "presentations": [
         { "type": "Production deployment", "venue": "Two leading agricultural districts near Bangalore, India", "year": "2024-present"}
